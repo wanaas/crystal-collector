@@ -1,0 +1,22 @@
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+#crystal-main {
+    width: 650px;
+    border: 2px solid gray;
+    padding: 25px;
+    background: black;
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+}
+
+#background {
+    background: url(../images/space3.png);
+}
