@@ -1,2 +1,2 @@
 # crystal-collector
- crystal collector game files
+choose a crystal to get to the target amount
